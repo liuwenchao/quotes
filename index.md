@@ -1,3 +1,7 @@
+Extend 
+http://www.multicians.org/thvv/proverbs.html 
+http://www.paulgraham.com/quo.html
+
 `No code debt!`
 
 `keep it simple and stupid (KISS) `
